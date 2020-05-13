@@ -20,4 +20,9 @@ class WebsiteController {
 //		echo $template_engine->render('homepage');
 
 	}
+
+	public function artiesten() {
+
+		echo "artiesten";
+	}
 }
